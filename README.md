@@ -2,7 +2,7 @@
 Mini-project in course D7041E at LTU
 
 Group 25
-Alex Bergdahl - alxber-0@student.ltu.se
+Alex Bergdahl - alxber-0@student.ltu.se <br/>
 Linus Håkegård - linhke-0@student.ltu.se
 
 We used the MNIST dataset

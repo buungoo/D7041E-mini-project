@@ -5,7 +5,7 @@ Group 25 <br/>
 Alex Bergdahl - alxber-0@student.ltu.se <br/>
 Linus Håkegård - linhke-0@student.ltu.se <br/>
 
-link to video <br/>
+Link to video: https://www.youtube.com/watch?v=LZqRZuPlOg0 <br/>
 
 We used the MNIST dataset  <br/>
 

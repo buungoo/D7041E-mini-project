@@ -7,4 +7,17 @@ Linus Håkegård - linhke-0@student.ltu.se <br/>
 
 link to video <br/>
 
-We used the MNIST dataset
+We used the MNIST dataset  <br/>
+
+To replicate/test our project you will need to download project.ipynb and run it. The data will be loaded automatically.  <br/>
+
+Requirements:  <br/>
+
+torch <br/>
+torchvision <br/>
+scikit-learn <br/>
+numpy <br/>
+pandas <br/>
+matplotlib <br/>
+seaborn <br/>
+ 
